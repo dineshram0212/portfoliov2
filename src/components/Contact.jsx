@@ -26,19 +26,19 @@ const Contact = () => {
                 <div>Bengaluru, India</div>
               </div>
               <div className="flex invert gap-5 justify-center lg:gap-20 ">
-                <a
+                <a target="_blank"
                   className="flex items-center min-h-[20px] w-full h-full opacity-50 hover:opacity-100 transition-all ease-in-out duration-300"
                   href=""
                 >
                   <img
                     className="min-w-[20px] h-[20px] lg:h-[30px]"
                     src={linkedin}
-                    alt=""
+                    alt="https://www.linkedin.com/in/dineshram-r/"
                   />
                 </a>
-                <a
+                <a target="_blank"
                   className="flex items-center min-h-[20px] w-full h-full opacity-50 hover:opacity-100 transition-all ease-in-out duration-300"
-                  href=""
+                  href="https://github.com/dineshram0212"
                 >
                   <img
                     className="min-w-[20px] h-[20px] lg:h-[30px]"
@@ -46,9 +46,9 @@ const Contact = () => {
                     alt=""
                   />
                 </a>
-                <a
+                <a target="_blank"
                   className=" flex items-center min-h-[20px] w-full h-full opacity-50 hover:opacity-100 transition-all ease-in-out duration-300"
-                  href=""
+                  href="https://medium.com/@dineshramdsml"
                 >
                   <img
                     className="min-w-[20px] h-[20px] lg:h-[30px]"
@@ -56,9 +56,9 @@ const Contact = () => {
                     alt=""
                   />
                 </a>
-                <a
+                <a target="_blank"
                   className="flex items-center min-h-[20px] w-full h-full opacity-50 hover:opacity-100 transition-all ease-in-out duration-300"
-                  href=""
+                  href="https://x.com/dineshramdsml"
                 >
                   <img className="min-w-[20px] h-[20px] lg:h-[30px]" src={X} alt="" />
                 </a>

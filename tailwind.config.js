@@ -8,6 +8,7 @@ export default {
         "amsterdam-four": ["Amsterdam-Four"],
         darkergrotesque: ["DarkerGrotesque"],
         lora: ["Lora"],
+        suse: ["Suse"],
       },
 
       backgroundImage: {

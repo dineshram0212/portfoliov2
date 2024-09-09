@@ -25,6 +25,11 @@
     src: url(./assets/fonts/Lora.ttf)
       format("truetype");
   }
+  @font-face {
+    font-family: 'Suse';
+    src: url(./assets/fonts/suse.ttf)
+      format("truetype");
+  }
 }
 
 

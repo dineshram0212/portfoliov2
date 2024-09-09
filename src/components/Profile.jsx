@@ -97,7 +97,7 @@ const Profile = () => {
                   <div className="font-lora text-lg lg:text-xl">
                     Bachelors of Technology
                   </div>
-                  <div className="font-lora text-xl lg:text-2xl">AI and Data Science</div>
+                  <div className="font-lora font-semibold text-lg lg:text-xl">AI and Data Science</div>
                   <div className="font-lora text-md lg:text-lg">2020 - 2024</div>
                   <div className="flex justify-end items-baseline gap-1">
                     <div className="text-5xl lg:text-7xl font-extrabold font-darkergrotesque">9.11</div>

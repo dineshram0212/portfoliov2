@@ -44,16 +44,16 @@ const Landingpage = () => {
       >
         <div className="flex h-1/4 w-full justify-end">
           <div className="flex flex-col gap-2 h-max w-max text-right text-lg md:text-xl">
-            <a className="hover:italic transition-all" href="#about">
+            <a className="hover:italic hover:line-through" href="#about">
               about
             </a>
-            <a className="hover:italic transition-all" href="#profile">
+            <a className="hover:italic hover:line-through" href="#profile">
               profile
             </a>
-            <a className="hover:italic transition-all" href="#projects">
+            <a className="hover:italic hover:line-through" href="#projects">
               projects
             </a>
-            <a className="hover:italic transition-all" href="#contact">
+            <a className="hover:italic hover:line-through" href="#contact">
               contacts
             </a>
           </div>
@@ -82,23 +82,23 @@ const Landingpage = () => {
 
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0">
             <div className="flex gap-6 md:gap-10 text-xl md:text-3xl">
-              <a
-                href="https://www.medium.com"
+              <a target="_blank"
+                href="https://medium.com/@dineshramdsml"
                 className="hover:italic hover:underline"
               >
                 medium
               </a>
-              <a
-                href="https://www.linkedin.com"
+              <a target="_blank"
+                href="https://www.linkedin.com/in/dineshram-r/"
                 className="hover:italic hover:underline"
               >
                 linkedin
               </a>
             </div>
             <div>
-              <button className="text-lg md:text-2xl p-2 md:p-3 border-[1px] border-black hover:bg-black hover:text-white transition-all">
+              <a target="_blank" href="https://drive.google.com/file/d/1N1EOvU1HGws_2lIE06w7bjIkDBuYdD8x/view?usp=drive_link" className="text-lg md:text-2xl p-2 md:p-3 border-[1px] border-black hover:bg-black hover:text-white transition-all">
                 resume
-              </button>
+              </a>
             </div>
           </div>
         </div>

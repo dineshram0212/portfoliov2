@@ -27,7 +27,7 @@ const About = () => {
             <div className="text-2xl md:text-3xl lg:text-4xl w-full lg:w-1/3 mb-4 lg:mb-0">
               about me
             </div>
-            <div className="text-justify lg:w-1/3 pr-6" style={{ fontSize: 'clamp(1rem, 1vw + 1rem, 2rem)' }}
+            <div className="text-justify lg:w-1/3 pr-6 font-lora" style={{ fontSize: 'clamp(1rem, 1vw + 1rem, 2rem)' }}
             >
               I'm all about diving into the world of AI, constantly pushing the
               boundaries to solve problems in innovative ways. With a background
