@@ -96,7 +96,7 @@ const Landingpage = () => {
               </a>
             </div>
             <div>
-              <a target="_blank" href="https://drive.google.com/file/d/1N1EOvU1HGws_2lIE06w7bjIkDBuYdD8x/view?usp=drive_link" className="text-lg md:text-2xl p-2 md:p-3 border-[1px] border-black hover:bg-black hover:text-white transition-all">
+              <a target="_blank" href="https://drive.google.com/file/d/1hnfSKji71AFZOJn-NS-Aj_QsS7q1Z1tq/view?usp=sharing" className="text-lg md:text-2xl p-2 md:p-3 border-[1px] border-black hover:bg-black hover:text-white transition-all">
                 resume
               </a>
             </div>
