@@ -83,6 +83,13 @@ const Landingpage = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0">
             <div className="flex gap-6 md:gap-10 text-xl md:text-3xl">
               <a target="_blank"
+                href="https://github.com/dineshram0212"
+                className="hover:italic hover:underline"
+              >
+                github
+              </a>
+              
+              <a target="_blank"
                 href="https://medium.com/@dineshramdsml"
                 className="hover:italic hover:underline"
               >
